@@ -1,0 +1,1 @@
+# hk-license-plate-OCR-with-Amazon-Rekognition-and-PaddleOCR
